@@ -1,4 +1,4 @@
-# Card-Tracking Demo
+# Card-Tracking Proof-Of-Concept
 
 This proof-of-concept uses ARKit image tracking and recognition to overlay information in real-time.
 
