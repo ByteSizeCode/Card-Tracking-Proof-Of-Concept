@@ -1,5 +1,5 @@
-# Using ARKit and Image Tracking to Augment a Card
+# Card-Tracking Demo
 
-ARKit and 2d object recognition. Augment real-life objects.
+This proof-of-concept uses ARKit image tracking and recognition to overlay information in real-time.
 
 <img src="/Screenrecording/Screenrecording.gif" alt="drawing" width="700" height="350"/>
